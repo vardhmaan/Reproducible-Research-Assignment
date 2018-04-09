@@ -1,3 +1,7 @@
+
+
+
+
 #Reproducible Research :Assignment 1
 
 ##Introduction
@@ -254,7 +258,6 @@ print(s)
 
 
 **From the two plots it seems that the test object is more active earlier in the day during weekdays compared to weekends, but more active throughout the weekends compared with weekdays (probably because the oject is working during the weekdays, hence moving less during the day).
-
 
 
 
